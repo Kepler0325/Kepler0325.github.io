@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# AI-Arch Lab
 
 ## AI Architecture & Security Laboratory
 
