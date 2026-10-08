@@ -8,8 +8,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Students"
-    url: /students/
+  - title: "Members"
+    url: /members/
 
   - title: "Contact"
     url: /contact/
